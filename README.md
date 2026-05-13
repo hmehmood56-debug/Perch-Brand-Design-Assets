@@ -4,7 +4,7 @@ Premium logo system for Perch Capital and Perch Terminal - React components with
 
 ## Brand Overview
 
-**Design Philosophy:** "Apple × Bloomberg" - sleek, premium, financial technology
+**Design Philosophy:** sleek, premium, financial technology
 
 **Brand Color:** `#C45000` (Perch Orange)
 
